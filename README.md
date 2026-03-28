@@ -21,4 +21,3 @@ while True:
             print(f"🎉 Chính xác! Bạn đã đoán đúng sau {attempts} lần.")
             break
     except:
-        print("⚠️ Vui lòng nhập số hợp lệ!")
